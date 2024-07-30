@@ -1,0 +1,4 @@
+../Core/Src/Ctrl/GPIO.c:3:9:getID	16	static
+../Core/Src/Ctrl/GPIO.c:13:6:togRDY	8	static
+../Core/Src/Ctrl/GPIO.c:17:6:togRX	8	static
+../Core/Src/Ctrl/GPIO.c:21:6:togTX	8	static

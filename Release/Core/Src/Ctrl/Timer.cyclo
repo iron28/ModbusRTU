@@ -1,0 +1,7 @@
+../Core/Src/Ctrl/Timer.c:10:6:tick5ms	3
+../Core/Src/Ctrl/Timer.c:25:5:IsElapsed5ms	1
+../Core/Src/Ctrl/Timer.c:29:5:IsElapsed500ms	1
+../Core/Src/Ctrl/Timer.c:33:5:IsElapsed1s	1
+../Core/Src/Ctrl/Timer.c:37:6:reset5ms	1
+../Core/Src/Ctrl/Timer.c:41:6:reset500ms	1
+../Core/Src/Ctrl/Timer.c:45:6:reset1s	1
