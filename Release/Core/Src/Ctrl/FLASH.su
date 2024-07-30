@@ -1,4 +1,0 @@
-../Core/Src/Ctrl/FLASH.c:6:12:getFlashReg	0	static
-../Core/Src/Ctrl/FLASH.c:25:6:writeRecord	48	static
-../Core/Src/Ctrl/FLASH.c:10:6:initFlash	16	static
-../Core/Src/Ctrl/FLASH.c:47:6:writeFlash	8	static
